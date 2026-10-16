@@ -1,0 +1,77 @@
+{
+  "direct_translation": {
+    "request_id": "20261016_0953bcc1-f8ba-4b4a-b8f1-dc525d7322ad",
+    "transcript": "Shailu, how are you? Jagadeesh, how are you? I am also fine.",
+    "timestamps": {
+      "words": [
+        "Shailu, how are you? Jagadeesh, how are you? I am also fine."
+      ],
+      "start_time_seconds": [
+        0.49
+      ],
+      "end_time_seconds": [
+        3.95
+      ]
+    },
+    "diarized_transcript": {
+      "entries": [
+        {
+          "transcript": "Shailu, how are you? Jagadeesh, how are you? I am also fine.",
+          "start_time_seconds": 0.49,
+          "end_time_seconds": 3.95,
+          "speaker_id": "0"
+        }
+      ]
+    },
+    "language_code": "te-IN",
+    "language_probability": 1.0,
+    "audio_hash": "9568cbf1810f45d3c2e884080d47246c",
+    "audio_mime": "audio/wav",
+    "elapsed_seconds": 29.083388090133667
+  },
+  "two_step_translation": {
+    "source_data": {
+      "request_id": "20261016_6a3b1399-255e-461a-a65c-00e58bcf46ed",
+      "transcript": "శైలు ఎలా ఉన్నావ్, జగదీష్ ఎలా ఉన్నావ్? నేను కూడా బాగున్నాను.",
+      "timestamps": {
+        "words": [
+          "శైలు ఎలా ఉన్నావ్, జగదీష్ ఎలా ఉన్నావ్? నేను కూడా బాగున్నాను."
+        ],
+        "start_time_seconds": [
+          0.49
+        ],
+        "end_time_seconds": [
+          3.95
+        ]
+      },
+      "diarized_transcript": {
+        "entries": [
+          {
+            "transcript": "శైలు ఎలా ఉన్నావ్, జగదీష్ ఎలా ఉన్నావ్? నేను కూడా బాగున్నాను.",
+            "start_time_seconds": 0.49,
+            "end_time_seconds": 3.95,
+            "speaker_id": "0"
+          }
+        ]
+      },
+      "language_code": "te-IN",
+      "language_probability": 1.0,
+      "audio_hash": "9568cbf1810f45d3c2e884080d47246c",
+      "audio_mime": "audio/wav",
+      "elapsed_seconds": 28.204171180725098
+    },
+    "language_code": "te-IN",
+    "diarized_entries": [
+      {
+        "speaker_id": "0",
+        "start_time_seconds": 0.49,
+        "end_time_seconds": 3.95,
+        "original_text": "శైలు ఎలా ఉన్నావ్, జగదీష్ ఎలా ఉన్నావ్? నేను కూడా బాగున్నాను.",
+        "translated_text": "How are you, Shailu? How are you, Jagadish? I'm also good."
+      }
+    ],
+    "full_original": "శైలు ఎలా ఉన్నావ్, జగదీష్ ఎలా ఉన్నావ్? నేను కూడా బాగున్నాను.",
+    "full_translated": "How are you, Shailu? How are you, Jagadish? I'm doing fine as well.",
+    "elapsed_seconds": 28.204171180725098
+  }
+}

@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables & Secrets
+.env
+.env.*
+*.env
+
+# Temporary Audio Outputs & Chunks
+data/output/temp_chunks/
+data/output/*.wav
+data/output_direct/
+data/output_two_step/
+
+# OS Specific
+.DS_Store
+Thumbs.db
